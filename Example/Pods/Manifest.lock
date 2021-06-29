@@ -1,0 +1,16 @@
+PODS:
+  - TRULogining (0.0.1)
+
+DEPENDENCIES:
+  - TRULogining (from `../`)
+
+EXTERNAL SOURCES:
+  TRULogining:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TRULogining: 7cd5b65bf54ebe9645dfbc180e7ebb83f7d0138e
+
+PODFILE CHECKSUM: a791c87fb5bdc3a81a80cc99556963ca4cd2b41e
+
+COCOAPODS: 1.10.1

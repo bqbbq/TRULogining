@@ -7,6 +7,7 @@
 //
 
 #import "BQViewController.h"
+#import "BQ_Login.h"
 
 @interface BQViewController ()
 
@@ -17,6 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [BQ_Login login];
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
